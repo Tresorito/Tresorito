@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Tresor ADOSSI, software engineering student. I aspirate to become <br>Data Engineer💪.<br>I have a high level of programming with Java❤️‍.<br>Also, I have deep skills in web development with popular frameworks<br>as Spring boot and Angular.🥷<br><br>- 🔭 I’m currently working on web development<br>- 🌱 I’m currently learning cloud(Azure)<br>- 💬 Ask me about Java, Spring Boot, Angular<br>-📫 How to reach me tresor.adossi1@gmail.com
+<strong>I'm Tresor ADOSSI, software engineering student. I aspirate to become <br>Data Engineer💪.<br>I have a high level of programming with Java❤️‍.<br>Also, I have deep skills in web development with popular frameworks<br>as Spring boot and Angular🥷.</strong><br><br>- 🔭 I’m currently working on web development<br>- 🌱 I’m currently learning cloud(Azure)<br>- 💬 Ask me about Java, Spring Boot, Angular<br>-📫 How to reach me tresor.adossi1@gmail.com
 
 
 ## 🌐 Socials:
